@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devesh-chander
 - 👀 Learning everyday from life and people. 
-- 🌱 MERN Stack Developer.
+- 🌱 Leraning and growing as a MERN Stack Developer.
 - 📫 how to reach me - rxt7200@gmail.com
 
 <!---
